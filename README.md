@@ -1,2 +1,3 @@
 # TensorFlow
-begin with CIFAR10
+begin with MNIST
+
